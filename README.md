@@ -1,6 +1,6 @@
-# mealsapp
+# Meals
 
-A new Flutter project.
+A simple navigation app build through Flutter & Dart.
 
 ## Getting Started
 
